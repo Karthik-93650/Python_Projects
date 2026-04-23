@@ -1,25 +1,20 @@
-# Python Projects
+# Contact Management System
 
-This repository contains multiple Python projects with a focus on
-data handling, OOPS concepts, and clean coding practices.
+A simple command-line application built using Python to manage contact data efficiently.
 
-## Contact Data Management System
-- Built using Python and OOPS
-- Implements CRUD operations
-- Uses CSV for persistent storage
-- Excel-compatible data handling
-- Includes input validation and error handling
+## Features
+- Add, update, delete contacts
+- Search contacts by name or details
+- Stores data using CSV files
+- Input validation and error handling
 
-## Project Structure
-- Data-Management Project → Main project (recommended to view)
-- Various_Python_Projects → Practice and mini projects
-
-## Skills Demonstrated
-- Python Programming
-- Object-Oriented Design
-- Data Management
+## Tech Stack
+- Python
 - File Handling (CSV)
-- Git & GitHub
+- Object-Oriented Programming (OOP)
+
+## Usage
+Run the application and manage contacts directly from the terminal.
 
 ## Author
 Uma Karthik Tanuri
